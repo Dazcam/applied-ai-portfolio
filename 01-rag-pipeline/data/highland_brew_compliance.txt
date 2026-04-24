@@ -1,0 +1,81 @@
+HIGHLAND BREW CO. - PRODUCT COMPLIANCE AND QUALITY STANDARDS DOCUMENT
+Version 3.2 | January 2026
+
+1. COMPANY OVERVIEW
+Highland Brew Co. is a Scottish craft brewery based in Inverness, producing a range of 
+ales, lagers, and seasonal beers for distribution across Scotland and the UK. All products 
+are manufactured in accordance with UK food safety legislation and Scottish Environment 
+Protection Agency (SEPA) guidelines.
+
+2. ALLERGEN POLICY
+All Highland Brew Co. products are produced in a facility that handles gluten-containing 
+grains including barley, wheat, and oats. Our core lager range contains barley malt and 
+is not suitable for people with gluten intolerance or coeliac disease. Our seasonal cider 
+range is gluten-free and suitable for coeliacs. All allergens are declared on product 
+labels in accordance with UK allergen labelling regulations.
+
+3. PRODUCT SPECIFICATIONS
+3.1 Highland Gold Ale
+- ABV: 4.2%
+- Ingredients: Water, Barley Malt, Hops, Yeast
+- Storage: Store in a cool dry place below 18 degrees Celsius
+- Shelf life: 12 months from production date
+- Suitable for vegans: Yes
+
+3.2 Inverness Dark Stout
+- ABV: 5.1%
+- Ingredients: Water, Barley Malt, Roasted Barley, Hops, Yeast
+- Storage: Store in a cool dry place below 18 degrees Celsius
+- Shelf life: 18 months from production date
+- Suitable for vegans: Yes
+
+3.3 Glen Light Lager
+- ABV: 3.8%
+- Ingredients: Water, Barley Malt, Wheat, Hops, Yeast
+- Storage: Refrigerate after opening, consume within 3 days
+- Shelf life: 9 months from production date
+- Suitable for vegans: Yes
+
+3.4 Caledonian Cider
+- ABV: 4.5%
+- Ingredients: Scottish Apples, Water, Sugar, Yeast
+- Storage: Store in a cool dry place below 18 degrees Celsius
+- Shelf life: 24 months from production date
+- Suitable for vegans: Yes
+- Gluten free: Yes
+
+4. QUALITY CONTROL PROCEDURES
+All batches undergo microbiological testing prior to release. Testing is carried out by 
+an accredited third party laboratory every two weeks. Acceptable limits are as follows:
+- Total Viable Count: less than 100 cfu/ml
+- Yeast and Mould: less than 10 cfu/ml
+- Coliforms: not detected
+Any batch failing these criteria is quarantined and destroyed. Results are logged in 
+the Quality Management System and retained for 5 years.
+
+5. PRODUCTION HYGIENE STANDARDS
+The production facility is cleaned and sanitised daily using food-grade cleaning agents 
+approved by the British Beer and Pub Association. Staff handling open products must wear 
+PPE including hairnets, gloves, and protective clothing. The facility undergoes a full 
+third party hygiene audit every six months. The most recent audit was completed in 
+November 2025 and received a score of 97 out of 100.
+
+6. TRACEABILITY AND RECALL PROCEDURES
+Each batch is assigned a unique batch code printed on all packaging. In the event of a 
+product recall, Highland Brew Co. can trace and withdraw all affected stock within 24 
+hours. The recall procedure is tested annually. Key contacts for recall events are the 
+Quality Manager and the Head of Operations. All recall events must be reported to Food 
+Standards Scotland within 24 hours of identification.
+
+7. ENVIRONMENTAL AND SUSTAINABILITY POLICY
+Highland Brew Co. is committed to reducing its environmental impact. The brewery 
+operates a water recycling system that reduces water consumption by 40% compared to 
+industry average. Spent grain from the brewing process is donated to local farms as 
+animal feed. The facility runs on 100% renewable energy sourced from Scottish wind farms.
+All packaging is made from recycled materials and is fully recyclable.
+
+8. CONTACT INFORMATION
+Quality Manager: Sarah MacLeod - s.macleod@highlandbrewco.scot
+Head of Operations: James Fraser - j.fraser@highlandbrewco.scot
+Food Safety Officer: Morag Campbell - m.campbell@highlandbrewco.scot
+Emergency Recall Hotline: 0800 123 4567

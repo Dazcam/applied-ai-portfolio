@@ -1,0 +1,43 @@
+HIGHLAND BREW CO. - SUPPLIER AND PROCUREMENT POLICY
+Version 1.4 | March 2025
+
+1. APPROVED SUPPLIERS
+Highland Brew Co. maintains a list of approved suppliers for all raw materials.
+All suppliers must hold current food safety certification before being added to the 
+approved list. New suppliers undergo a full audit before first order is placed.
+
+1.1 Malt Suppliers
+Primary supplier: Bairds Malt Ltd, Inverness
+Backup supplier: Simpsons Malt, Berwick-upon-Tweed
+All malt deliveries are tested for moisture content and protein levels on arrival.
+Acceptable moisture content: below 4.5%
+Acceptable protein level: between 9.5% and 11.5%
+
+1.2 Hop Suppliers
+Primary supplier: Charles Faram, Worcestershire
+All hops are stored in sealed refrigerated units at 2 degrees Celsius upon arrival.
+Hops are tested for alpha acid content before use in production.
+
+1.3 Packaging Suppliers
+Primary supplier: Scottish Packaging Ltd, Glasgow
+All packaging materials must meet UK food contact material regulations.
+Packaging supplier audits are conducted annually.
+
+2. PROCUREMENT PROCESS
+All purchase orders above 5000 pounds must be approved by the Head of Operations.
+Orders below 5000 pounds can be approved by the Quality Manager.
+Emergency orders outside normal procurement must be documented within 48 hours.
+
+3. SUPPLIER PERFORMANCE REVIEW
+All suppliers are reviewed quarterly against the following criteria:
+- On time delivery rate: target above 95%
+- Rejection rate: target below 2%
+- Responsiveness to complaints: target resolution within 5 working days
+Suppliers failing to meet targets for two consecutive quarters are placed on review.
+Suppliers on review for more than six months are removed from the approved list.
+
+4. INCOMING GOODS INSPECTION
+All deliveries are inspected by a trained member of the quality team on arrival.
+Inspection records are retained in the Quality Management System for 5 years.
+Rejected deliveries are quarantined and returned to supplier within 48 hours.
+A non-conformance report is raised for every rejected delivery.
